@@ -1,6 +1,6 @@
 <!-- Glassmorphic header effect using SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-889/Ahmad-889/main/assets/glassmorphic-banner.svg" width="90%" alt="Glassmorphic Banner"/>
+ <img src="glassmorphic-banner.svg" width="90%" alt="Glassmorphic Banner"/>
 </p>
 
 <h1 align="center">Hey, I'm Ahmad 👋</h1>
@@ -75,7 +75,7 @@ Crafted with Angular + Tailwind CSS
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-889/Ahmad-889/main/assets/glassmorphic-footer.svg" width="60%" alt="Glassmorphic Footer"/>
+ <img src="glassmorphic-footer.svg" width="60%" alt="Glassmorphic Footer"/>
 </p>
 
 <details>
