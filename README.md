@@ -1,89 +1,85 @@
-<!-- Glassmorphic header effect using SVG -->
+<h1 align="center">Hi, I'm Ahmad 👋</h1>
+
 <p align="center">
- <img src="glassmorphic-banner.svg" width="90%" alt="Glassmorphic Banner"/>
+  Full-Stack Web Developer • Freelancer • UI/UX Enthusiast
 </p>
 
-<h1 align="center">Hey, I'm Ahmad 👋</h1>
 <p align="center">
-  <b>Full-Stack Web Developer & Freelancer</b> <br>
-  <i>Crafting modern, real-time, and high-performance web experiences</i>
-</p>
-
----
-
-<p align="center">
-  <a href="https://ahmadev.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ahmadev.site-0b1120?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-784271337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Ahmad-889" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ahmad--889-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.instagram.com/_.authentic._.ahmad._" target="_blank"><img src="https://img.shields.io/badge/Instagram-_.authentic._.ahmad._-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://ahmadev.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ahmadev.site-blue?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/ahmadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmadev-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-1A73E8?style=flat-square&logo=signal&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I’m a passionate Full-Stack Developer who builds modern, responsive web applications using Angular, Tailwind CSS, and .NET. I help businesses and startups by turning ideas into beautiful, functional, and scalable web solutions.
+
+- 🔧 I specialize in **Angular**, **Tailwind CSS**, **C# .NET**, **SQL**, and **SignalR**
+- 🧠 Currently building a **real-time chat app**
+- ⚡ Love crafting sleek UIs and seamless user experiences
+- 🛠 Always excited to work on new challenges and custom solutions
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Tech Stack
 
-### [Modern Chat App](https://github.com/Ahmad-889/modern-chat-app)
-A real-time messaging app built with Angular 19, .NET, and SignalR  
-<sub>• Real-time conversations • Group & private chat • Responsive UI</sub>
-
-### [Personal Portfolio](https://ahmadev.site)
-Crafted with Angular + Tailwind CSS  
-<sub>• Modern glassmorphic design • Services, pricing, and case studies • Optimized for performance & UX</sub>
-
----
-
-## 🔥 What Drives Me
-
-- Building modern, responsive, and clean UIs inspired by WhatsApp Web & Dribbble
-- Creating real-time applications & productivity tools that optimize digital experiences
-- Designing robust, scalable APIs and high-performance solutions for businesses
-- Exploring design systems, automation, and 3D web elements
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
-## 🎯 Fun Facts
+### 📌 Featured Projects
 
-- I love experimenting with UI/UX and glassmorphic effects  
-- Always on the lookout for new productivity hacks and automation tools  
-- <i>Favorite quote:</i>  
-  <b>“Code is like humor. When you have to explain it, it’s bad.”</b> – Cory House
+#### 🟢 [Real-Time Chat App](https://ahmadev.site)
+A WhatsApp-inspired chat app using Angular 19, .NET, SignalR with features like:
+- JWT auth, friend requests, profile customization
+- Real-time emoji/text messaging
+- SQL Server backend with Clean Architecture
+
+#### 🟢 [Freelance Portfolio](https://ahmadev.site)
+Personal portfolio to showcase services, pricing plans, and project demos — built with Angular + Tailwind CSS.
+
+---
+
+### ✨ What I’m Passionate About
+
+- Creating modern business websites that convert 🚀  
+- Real-time communication & UI performance optimization ⚡  
+- Solving real problems with practical, maintainable code 🔧  
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
 ---
 
-## 📫 Let’s Connect!
+### 📫 Connect With Me
 
-- Portfolio: [ahmadev.site](https://ahmadev.site)
-- LinkedIn: [Muhammad Ahmad](https://www.linkedin.com/in/muhammad-ahmad-784271337/)
-- Instagram: [_.authentic._.ahmad._](https://www.instagram.com/_.authentic._.ahmad._)
-- GitHub: [Ahmad-889](https://github.com/Ahmad-889)
+- 🌐 Portfolio: [ahmadev.site](https://ahmadev.site)
+- 💼 LinkedIn: [linkedin.com/in/ahmadev](https://linkedin.com/in/ahmadev)
+- 📧 Email: `youremail@example.com` *(update this)*
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
- <img src="glassmorphic-footer.svg" width="60%" alt="Glassmorphic Footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadev&theme=tokyonight" width="48%" />
 </p>
 
-<details>
-  <summary>👀 <b>GitHub Stats & Activity</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-889&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=2dd4bf" width="60%" alt="Ahmad's GitHub Stats">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-889&theme=glass" width="50%" alt="Ahmad's GitHub Streak">
-  </p>
-</details>
+---
+
+### 🧠 Let's Build Something Awesome!
+
+I'm open to freelance projects, collaborations, or job opportunities. Let’s connect and bring your ideas to life!
+
+---
+
