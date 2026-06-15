@@ -4,7 +4,6 @@
   <b>Full-Stack Web Developer & Freelancer</b> <br>
   <i>Crafting modern, real-time, and high-performance web experiences</i>
 </p>
-
 <p align="center">
   <a href="https://ahmadev.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ahmadev.site-0b1120?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-ahmad-784271337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
